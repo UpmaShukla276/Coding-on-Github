@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0054-spiral-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
