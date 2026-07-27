@@ -4,7 +4,7 @@ class Solution {
         int left = 1;
         int right = 0;
 
-        // Find the maximum pile
+        // Find sbse bda pile
         for (int pile : piles) {
             right = Math.max(right, pile);
         }
