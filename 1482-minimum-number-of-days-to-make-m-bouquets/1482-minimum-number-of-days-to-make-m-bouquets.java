@@ -5,6 +5,7 @@ class Solution {
         // if required > avaabibaleleeee
         if ((long) m * k > bloomDay.length) {
             return -1;
+            
         }
 
         int low = Integer.MAX_VALUE;
