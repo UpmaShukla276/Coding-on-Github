@@ -2,7 +2,7 @@ class Solution {
 
     public int minDays(int[] bloomDay, int m, int k) {
 
-        // if required > availableeee
+        // if required > avaabibaleleeee
         if ((long) m * k > bloomDay.length) {
             return -1;
         }
@@ -10,7 +10,7 @@ class Solution {
         int low = Integer.MAX_VALUE;
         int high = Integer.MIN_VALUE;
 
-        // Find minimum and maximum bloom day
+        // Find minimum and maximum bloom dayyy
         for (int day : bloomDay) {
             low = Math.min(low, day);
             high = Math.max(high, day);
