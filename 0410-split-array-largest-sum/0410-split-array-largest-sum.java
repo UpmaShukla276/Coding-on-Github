@@ -5,7 +5,7 @@ class Solution {
         int right = 0;
 
         // left = largest element
-        // right = total sum
+        // right = total summm hai
         for (int num : nums) {
             left = Math.max(left, num);
             right += num;
