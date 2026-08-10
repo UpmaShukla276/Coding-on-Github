@@ -3,7 +3,7 @@ class Solution {
 
         int rows = matrix.length;
         int cols = matrix[0].length;
-
+        // rwos and clls
         int left = 0;
         int right = rows * cols - 1;
 
