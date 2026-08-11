@@ -3,7 +3,7 @@ class Solution {
         int maxProfit = 0;
         int n = prices.length;
         int buyPrice = prices[0];
-
+        // loop strart kiya
         for(int i = 1; i < n; i++){
             int currProfit = prices[i] - buyPrice;
             
