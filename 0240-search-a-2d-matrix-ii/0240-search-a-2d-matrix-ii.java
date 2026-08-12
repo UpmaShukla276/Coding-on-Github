@@ -1,6 +1,6 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
-
+            // for rows
         int rows = matrix.length;
         int cols = matrix[0].length;
 
