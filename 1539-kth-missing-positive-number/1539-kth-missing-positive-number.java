@@ -7,7 +7,7 @@ class Solution {
 
             int missing = arr[mid] - (mid + 1);
 
-            // agr k se less missing no. of number h number to aage bdh jao
+            // agr k se less missing no. of number h number to aage bdh jaooo
 
             if (missing < k)
                 left = mid + 1;
