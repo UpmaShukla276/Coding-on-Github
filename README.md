@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0075-sort-colors) |
+| [0876-middle-of-the-linked-list](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -131,4 +132,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
