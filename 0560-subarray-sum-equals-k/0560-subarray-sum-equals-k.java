@@ -5,7 +5,7 @@ class Solution {
 
         // HashMap banaya jisme:
         // Key   = Prefix Sum (ab tak ka total sum)
-        // Value = Ye prefix sum kitni baar aaya hai
+        // Valueee = Ye prefix sum kitni baar aaya hai
         HashMap<Integer, Integer> map = new HashMap<>();
 
         // Starting me prefix sum 0 ek baar mana jata hai.
