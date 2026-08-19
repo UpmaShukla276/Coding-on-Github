@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0141-linked-list-cycle) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0206-reverse-linked-list) |
