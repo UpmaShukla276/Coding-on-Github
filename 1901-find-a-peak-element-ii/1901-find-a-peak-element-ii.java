@@ -8,7 +8,7 @@ class Solution {
 
                 int curr = mat[i][j];
 
-                // four condititionsss
+                // fourrrr condititionsss
                 if (i > 0 && mat[i - 1][j] >= curr) continue;
 
                 
