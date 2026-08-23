@@ -4,7 +4,7 @@ class Solution {
 
     public List<Integer> majorityElement(int[] nums) {
 
-        // Maximum 2 majority elements ho sakte hain (> n/3)
+        // Maximum  2222 majority elements ho sakte hain (> n/3)
         int candidate1 = 0;
         int candidate2 = 0;
 
