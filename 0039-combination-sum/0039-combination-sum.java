@@ -1,41 +1,36 @@
 class Solution {
 
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-
-        List<List<Integer>> ans = new ArrayList<>();
-
-        backtrack(0, candidates, target, new ArrayList<>(), ans);
-
-        return ans;
+        
+        List<List<Integer>> answer = new ArrayList<>();
+        List<Integer> current = new ArrayList<>();
+        
+        findCombinations(candidates, target, current, 0, answer);
+        
+        return answer;
     }
 
-    public void backtrack(int index, int[] candidates, int target,
-                          List<Integer> current,
-                          List<List<Integer>> ans) {
+    private void findCombinations(int[] candidates, int target, List<Integer> current, int i, List<List<Integer>> answer) {
 
-        // BASE CASE
+        // Base Case 1: Target ban gaya!
         if (target == 0) {
-            ans.add(new ArrayList<>(current));
+            answer.add(new ArrayList<>(current));
             return;
         }
 
-        // CHOICES
-        for (int i = index; i < candidates.length; i++) {
-
-            // Constraint: target negative nahi hona chahiye
-            if (target - candidates[i] < 0) {
-                continue;
-            }
-
-            // MAKE CHOICE
-            current.add(candidates[i]);
-
-            // BACKTRACK / Explore
-            backtrack(i, candidates, target - candidates[i],
-                      current, ans);
-
-            // UNDO CHOICE
-            current.remove(current.size() - 1);
+        // Base Case 2: Array khatam ho gaya YA target negative ho gaya
+        if (i == candidates.length || target < 0) {
+            return;
         }
+
+        // Choice 1: Current element ko INCLUDE karo (usi element pe raho — repetition allowed)
+        current.add(candidates[i]);
+        findCombinations(candidates, target - candidates[i], current, i, answer);
+
+        // Backtrack
+        current.remove(current.size() - 1);
+
+        // Choice 2: Current element ko EXCLUDE karo (agle element pe jao)
+        findCombinations(candidates, target, current, i + 1, answer);
     }
 }
