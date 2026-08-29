@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0169-majority-element) |
+| [0216-combination-sum-iii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0410-split-array-largest-sum) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
 |  |
 | ------- |
