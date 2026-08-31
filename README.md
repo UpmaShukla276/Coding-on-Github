@@ -201,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0090-subsets-ii) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
