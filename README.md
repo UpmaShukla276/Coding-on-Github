@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1922-count-good-numbers) |
 ## Simulation
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1922-count-good-numbers) |
 ## Floyd's Cycle Finding Algorithm
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0231-power-of-two) |
 ## Database
 |  |
 | ------- |
