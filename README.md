@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0240-search-a-2d-matrix-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1922-count-good-numbers) |
 ## Simulation
@@ -216,4 +218,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1757-recyclable-and-low-fat-products) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
