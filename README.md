@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0234-palindrome-linked-list) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -240,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
