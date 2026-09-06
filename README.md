@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0234-palindrome-linked-list) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0022-generate-parentheses) |
 ## Bit Manipulation
 |  |
