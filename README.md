@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0704-binary-search) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0496-next-greater-element-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -256,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
