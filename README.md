@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0410-split-array-largest-sum) |
 ## Linked List
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0735-asteroid-collision) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0022-generate-parentheses) |
+| [0402-remove-k-digits](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0402-remove-k-digits) |
 ## Backtracking
 |  |
 | ------- |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0907-sum-of-subarray-minimums) |
