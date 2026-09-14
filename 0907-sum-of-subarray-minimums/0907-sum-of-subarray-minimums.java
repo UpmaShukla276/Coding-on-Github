@@ -9,7 +9,7 @@ class Solution {
 
         Stack<Integer> stack = new Stack<>();
 
-        // Previous smaller element
+        // Previous one smaller element
         for (int i = 0; i < n; i++) {
 
             while (!stack.isEmpty() && arr[stack.peek()] > arr[i]) {
