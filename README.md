@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0496-next-greater-element-i) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -283,4 +285,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/2104-sum-of-subarray-ranges) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
