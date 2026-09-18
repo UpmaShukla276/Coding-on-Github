@@ -20,7 +20,7 @@ class Solution {
         while (fast != null && fast.next != null) {
             slow = slow.next;         
             fast = fast.next.next;   
-            // agr dono same jagah pe aa gye
+            // agr dono same jagah pe aa gye tohh
             if (slow == fast)
                 return true;          
         }
