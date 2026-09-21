@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/2104-sum-of-subarray-ranges) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0022-generate-parentheses) |
 | [0402-remove-k-digits](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0402-remove-k-digits) |
+| [1021-remove-outermost-parentheses](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1021-remove-outermost-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
