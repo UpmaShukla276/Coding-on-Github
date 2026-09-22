@@ -13,7 +13,7 @@ class Solution {
         if (head == null || head.next == null) {
                     return head;
                 }
-
+        // head declree
         ListNode odd = head;
         ListNode even = head.next;
 
