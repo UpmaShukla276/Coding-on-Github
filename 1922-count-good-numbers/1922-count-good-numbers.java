@@ -1,7 +1,7 @@
 class Solution {
     static final long MOD = 1000000007;
     public int countGoodNumbers(long n) {
-
+        // declaree it
         long evenposn= (n+1)/2;
         long oddposn = n/2;
 
