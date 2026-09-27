@@ -2,7 +2,7 @@ class Solution {
 
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
 
-        Arrays.sort(candidates);   // duplicates ko ek saath laane ke liye
+        Arrays.sort(candidates);   // dddduplicates ko ek saath laane ke liye
 
         List<List<Integer>> answer = new ArrayList<>();
         List<Integer> current = new ArrayList<>();
