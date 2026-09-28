@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0031-next-permutation) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0022-generate-parentheses) |
 | [0402-remove-k-digits](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0402-remove-k-digits) |
@@ -304,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
