@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0160-intersection-of-two-linked-lists) |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0014-longest-common-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
