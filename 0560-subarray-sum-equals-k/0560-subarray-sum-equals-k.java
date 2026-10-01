@@ -28,17 +28,9 @@ class Solution {
              Formula:
              Subarray Sum = Current Prefix Sum - Previous Prefix Sum
 
-             Hume Subarray Sum = k chahiye.
+             
 
-             Isliye,
-
-             k = currSum - previousPrefix
-
-             => previousPrefix = currSum - k
-
-             Agar (currSum - k) pehle kabhi aa chuka hai,
-             to uska matlab current index par end hone wala
-             ek ya ek se zyada valid subarray mil gaya.
+             
             */
             if (map.containsKey(currSum - k)) {
 
