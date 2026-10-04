@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0540-single-element-in-a-sorted-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0435-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0907-sum-of-subarray-minimums) |
 ## Matrix
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0435-non-overlapping-intervals) |
 ## Linked List
 |  |
 | ------- |
