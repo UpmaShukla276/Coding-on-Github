@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0875-koko-eating-bananas) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0643-maximum-average-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
