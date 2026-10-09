@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1539-kth-missing-positive-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1901-find-a-peak-element-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/2104-sum-of-subarray-ranges) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -137,12 +138,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0231-power-of-two) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1922-count-good-numbers) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0735-asteroid-collision) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0234-palindrome-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1922-count-good-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0239-sliding-window-maximum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Stack
 |  |
 | ------- |
