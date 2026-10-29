@@ -1,4 +1,6 @@
 # Write your MySQL query statement below
+
+-- codee h
 SELECT q.query_name,
     ROUND
         (AVG(q.rating/q.position),2
