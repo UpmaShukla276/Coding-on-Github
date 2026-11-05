@@ -1,4 +1,5 @@
 # Write your MySQL query statement below
+-- code
 SELECT 
     ROUND
         (SUM(order_date=customer_pref_delivery_date)*100/COUNT(*),2
