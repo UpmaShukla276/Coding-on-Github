@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0239-sliding-window-maximum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0435-non-overlapping-intervals) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0239-sliding-window-maximum) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Monotonic Queue
@@ -473,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
