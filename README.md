@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0216-combination-sum-iii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1901-find-a-peak-element-ii) |
 ## Math
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0547-number-of-provinces) |
 ## Algorithm X
 |  |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0543-diameter-of-binary-tree) |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## DP on Trees
