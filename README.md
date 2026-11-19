@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1020-number-of-enclaves) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1539-kth-missing-positive-number) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1020-number-of-enclaves) |
 | [1901-find-a-peak-element-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1901-find-a-peak-element-ii) |
 ## Math
 |  |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1020-number-of-enclaves) |
 ## Algorithm X
 |  |
 | ------- |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1020-number-of-enclaves) |
 ## DP on Trees
 |  |
 | ------- |
