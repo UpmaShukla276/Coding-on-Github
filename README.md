@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0907-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1020-number-of-enclaves) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1020-number-of-enclaves) |
 | [1901-find-a-peak-element-ii](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1901-find-a-peak-element-ii) |
 ## Math
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/UpmaShukla276/Coding-on-Github/tree/master/1020-number-of-enclaves) |
 ## DP on Trees
 |  |
